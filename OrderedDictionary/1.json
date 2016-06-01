@@ -1,0 +1,1516 @@
+{
+  "schoolTelJson": {
+    "图书馆": {
+      "图书馆": [
+        {
+          "TEACHERNAME": "馆长",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6356",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "资料室",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6352",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "视听室",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6354",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "阅报室",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6354",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "采编室",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6350",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "样本室",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6351",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "借书处",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6353",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "阅览室",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6355",
+          "TELNUMBER2": ""
+        }
+      ],
+      "信息技术中心": [
+        {
+          "TEACHERNAME": "刘淼",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "信息技术中心",
+          "TELNUMBER1": "6406",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "电教、软件维护",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "信息技术中心",
+          "TELNUMBER1": "6406",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "信息技术中心（主任）",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "信息技术中心",
+          "TELNUMBER1": "6407",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "电话网络维护",
+          "DEPTNAME1": "图书馆",
+          "DEPTNAME2": "信息技术中心",
+          "TELNUMBER1": "6158",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "铁道建筑系": {
+      "铁道建筑系": [
+        {
+          "TEACHERNAME": "造价、建工团队",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6378",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "制图、建经团队",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6380",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "道桥、隧道团队",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6431",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6379",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "建工实习基地",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6532",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6375",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（教学）",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6376",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（学生）",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6377",
+          "TELNUMBER2": ""
+        }
+      ],
+      "工程公司": [
+        {
+          "TEACHERNAME": "工程公司经理",
+          "DEPTNAME1": "铁道建筑系",
+          "DEPTNAME2": "工程公司",
+          "TELNUMBER1": "6552（82079）",
+          "TELNUMBER2": "6551"
+        }
+      ]
+    },
+    "铁道动力系": {
+      "实训中心": [
+        {
+          "TEACHERNAME": "实训中心（主任）",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "7090",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "钳工实习基地",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6517",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "供变电实训室",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "7083",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "电力机车实训室",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "7091",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "电工实验室",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6424",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "电子实验室",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6451",
+          "TELNUMBER2": ""
+        }
+      ],
+      "铁道动力系": [
+        {
+          "TEACHERNAME": "副主任（教学）",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6372",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（学生）",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6370",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "动车、供电团队",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6373",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "机车、应电团队",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6374",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7832",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "铁道动力系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6371",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "后勤管理处": {
+      "教室办": [
+        {
+          "TEACHERNAME": "教室办",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "教室办",
+          "TELNUMBER1": "7071",
+          "TELNUMBER2": ""
+        }
+      ],
+      "后勤管理处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6528",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长（外勤）",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6525",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6521（83059）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "保健站",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6524",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "汽车队",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6580",
+          "TELNUMBER2": "6505"
+        },
+        {
+          "TEACHERNAME": "供暖",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6526",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "锅炉房",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6529",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "仓管",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6530",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "节能",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6536",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "6号教学楼",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7072",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "1号教学楼",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7073",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "5号教学楼",
+          "DEPTNAME1": "后勤管理处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6412",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "继续教育培训中心（主校区）": {
+      "招待所": [
+        {
+          "TEACHERNAME": "招待所所长",
+          "DEPTNAME1": "继续教育培训中心（主校区）",
+          "DEPTNAME2": "招待所",
+          "TELNUMBER1": "6211",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "值班室",
+          "DEPTNAME1": "继续教育培训中心（主校区）",
+          "DEPTNAME2": "招待所",
+          "TELNUMBER1": "6112",
+          "TELNUMBER2": ""
+        }
+      ],
+      "继续教育培训中心（主校区）": [
+        {
+          "TEACHERNAME": "副主任（培训）",
+          "DEPTNAME1": "继续教育培训中心（主校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6568（86089）",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "人事处": {
+      "人事处": [
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "人事处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6312（82029）",
+          "TELNUMBER2": "6322"
+        },
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "人事处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6699",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "城市轨道系": {
+      "实训中心": [
+        {
+          "TEACHERNAME": "实训中心（主任）",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "7086",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "综合实训室",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "7085",
+          "TELNUMBER2": ""
+        }
+      ],
+      "城市轨道系": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6390",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（教学）",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6392",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（学生）",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6391",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "城轨控制团队",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6393",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "城轨工程、车辆团队",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6394",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "城轨运营、电气团队",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6395",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "城市轨道系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6396",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "离退职工管理服务中心": {
+      "离退职工管理服务中心": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "离退职工管理服务中心",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6313",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "督导办公室": {
+      "督导办公室": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "督导办公室",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6315",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "体育部": {
+      "体育部": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "体育部",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6446",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "操场办公室",
+          "DEPTNAME1": "体育部",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6448",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "院领导": {
+      "院领导": [
+        {
+          "TEACHERNAME": "院长",
+          "DEPTNAME1": "院领导",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6301",
+          "TELNUMBER2": "26150030"
+        },
+        {
+          "TEACHERNAME": "党委书记",
+          "DEPTNAME1": "院领导",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6300（83099）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副院长（培训）",
+          "DEPTNAME1": "院领导",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6302（83009）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副院长（教学）",
+          "DEPTNAME1": "院领导",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6618（83439）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副院长（后勤）",
+          "DEPTNAME1": "院领导",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6688（82609）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副院长（学生）",
+          "DEPTNAME1": "院领导",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6306（84769）",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "河东校区": {
+      "河东校区": [
+        {
+          "TEACHERNAME": "值班室",
+          "DEPTNAME1": "河东校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "15710299281",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "管理办主任",
+          "DEPTNAME1": "河东校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "15710299396",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任办公室",
+          "DEPTNAME1": "河东校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "15710298149",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "综合管理办公室",
+          "DEPTNAME1": "河东校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "15710299397",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "河东校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "15710299373",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "招生就业处": {
+      "招生就业处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "招生就业处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6330",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长（招生）",
+          "DEPTNAME1": "招生就业处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6328",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长（就业）",
+          "DEPTNAME1": "招生就业处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6409",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "招生办",
+          "DEPTNAME1": "招生就业处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6329（82649）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "就业办",
+          "DEPTNAME1": "招生就业处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6408（81099）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "职业指导团队",
+          "DEPTNAME1": "招生就业处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6408",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "铁道运输系": {
+      "实训中心": [
+        {
+          "TEACHERNAME": "实训中心（主任）",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6369",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "物流实训室",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6425",
+          "TELNUMBER2": ""
+        }
+      ],
+      "铁道运输系": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6360",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（教学）",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6369",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（学生）",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6361",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "物流团队",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6363",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "铁运团队",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6364",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "铁道运输系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6365",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "铁道工程系": {
+      "实训中心": [
+        {
+          "TEACHERNAME": "实训中心（主任）",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6421",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "土工实训室",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6422",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "综合实训室",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6423",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "测量实训室",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6405",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "机械实训室",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "7082",
+          "TELNUMBER2": ""
+        }
+      ],
+      "铁道工程系": [
+        {
+          "TEACHERNAME": "副主任（学生）",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6506",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "铁工、高铁团队",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6509",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "主任、教学副主任",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6344",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "测量、高维团队",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6430",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "铁道工程系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6508",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "团委": {
+      "团委": [
+        {
+          "TEACHERNAME": "学生会",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6358",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "社联",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6348",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "编委会",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6349",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "书记",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6368",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副书记",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6307",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6307",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "青协",
+          "DEPTNAME1": "团委",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6345",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "行政办公室": {
+      "行政办公室": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "行政办公室",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6320",
+          "TELNUMBER2": "6304（81859）"
+        },
+        {
+          "TEACHERNAME": "传真",
+          "DEPTNAME1": "行政办公室",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26764192",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "基础课部": {
+      "基础课部": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "基础课部",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6343",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "数、语团队",
+          "DEPTNAME1": "基础课部",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6444",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "外语团队",
+          "DEPTNAME1": "基础课部",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6441",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "铁道电信系": {
+      "实训中心": [
+        {
+          "TEACHERNAME": "实训中心（主任）",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6178",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "信号实训室",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6450",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "通信实训室",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "实训中心",
+          "TELNUMBER1": "6168",
+          "TELNUMBER2": "6188"
+        }
+      ],
+      "铁道电信系": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6799（81439）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（教学）",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6341（81439）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（学生）",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6366",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "通信团队",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6433",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "信号团队",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6434",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "网络团队",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6416",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "计算机基础团队",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6442",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "辅导员办公室",
+          "DEPTNAME1": "铁道电信系",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6789",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "教务处": {
+      "计算机实训中心": [
+        {
+          "TEACHERNAME": "计算机实训中心（主任）",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "计算机实训中心",
+          "TELNUMBER1": "6414",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "技术室",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "计算机实训中心",
+          "TELNUMBER1": "6413",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "管理室",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "计算机实训中心",
+          "TELNUMBER1": "6415",
+          "TELNUMBER2": ""
+        }
+      ],
+      "教务处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6400（81839）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长（教学）",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6402",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长（实训）",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7002",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "成绩、数据平台",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6401",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "学籍、考务、调代课",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6402",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "教材",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6403",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "文印室",
+          "DEPTNAME1": "教务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6572",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "工会": {
+      "工会": [
+        {
+          "TEACHERNAME": "工会",
+          "DEPTNAME1": "工会",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6303（83506）",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "国际交流处": {
+      "国际交流处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "国际交流处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6600",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "留学生管理办公室",
+          "DEPTNAME1": "国际交流处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6605",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "党委办公室": {
+      "党委办公室": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "党委办公室",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6310",
+          "TELNUMBER2": "6326（82609）"
+        },
+        {
+          "TEACHERNAME": "礼堂",
+          "DEPTNAME1": "党委办公室",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7834",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "财务处": {
+      "财务处": [
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "财务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6318（82379）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "财务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6319",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "工资",
+          "DEPTNAME1": "财务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6317",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "卡中心",
+          "DEPTNAME1": "财务处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7822",
+          "TELNUMBER2": "7826"
+        }
+      ]
+    },
+    "南校区": {
+      "南校区": [
+        {
+          "TEACHERNAME": "保卫办公室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26766940",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "食堂",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26199974",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "供热站",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26325667",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "传达室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783006",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "管理班主任",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26151291",
+          "TELNUMBER2": "26783009"
+        },
+        {
+          "TEACHERNAME": "管理办公室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26322865",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "学管办公室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783022",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "宿管办公室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "60564369",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "后勤办公室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783019",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "离退办公室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783025",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "总值班室",
+          "DEPTNAME1": "南校区",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783020",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "校企合作处": {
+      "校企合作处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "校企合作处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6780（84839）",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "膳食管理中心": {
+      "膳食管理中心": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "膳食管理中心",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6527",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "第一食堂",
+          "DEPTNAME1": "膳食管理中心",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6542",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "第二食堂",
+          "DEPTNAME1": "膳食管理中心",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6543",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "教工食堂",
+          "DEPTNAME1": "膳食管理中心",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6544",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "保卫处": {
+      "保卫处": [
+        {
+          "TEACHERNAME": "值班室",
+          "DEPTNAME1": "保卫处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6314（83029）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "保卫处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6308",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "保卫处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6533（83029）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "传达室",
+          "DEPTNAME1": "保卫处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6531",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "学生处": {
+      "学生处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6332（84739）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6323",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副处长（公寓）",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6331",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6311",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "学生档案",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6567",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "心理健康指导中心",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6346",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "公寓办公室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6334",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "公寓维修",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6339",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "宿舍总值班室（夜间）",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6388",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "一栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6335",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "二栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6336",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "三栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6337",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "四栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6338",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "五栋男值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6583",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "五栋女值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6586",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "六栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6340",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "七栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6585",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "八栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6584",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "九栋值班室",
+          "DEPTNAME1": "学生处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "7113",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "思政部": {
+      "思政部": [
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "思政部",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6445",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "继续教育培训中心（南校区）": {
+      "继续教育培训中心（南校区）": [
+        {
+          "TEACHERNAME": "办公室（培训）",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26741148",
+          "TELNUMBER2": "60562967"
+        },
+        {
+          "TEACHERNAME": "招待所1号楼",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783023",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "招待所2号楼",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "60562972",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "主任",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "60562975",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "副主任（成教）",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "60562053",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室（成教）",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26746322",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室（教培）",
+          "DEPTNAME1": "继续教育培训中心（南校区）",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "26783027",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "职业技能鉴定站": {
+      "职业技能鉴定站": [
+        {
+          "TEACHERNAME": "站长",
+          "DEPTNAME1": "职业技能鉴定站",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6501",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "通用工种",
+          "DEPTNAME1": "职业技能鉴定站",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6502",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "特有工种",
+          "DEPTNAME1": "职业技能鉴定站",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6503",
+          "TELNUMBER2": ""
+        }
+      ]
+    },
+    "科技信息处": {
+      "科技信息处": [
+        {
+          "TEACHERNAME": "处长",
+          "DEPTNAME1": "科技信息处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6616（83439）",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "办公室",
+          "DEPTNAME1": "科技信息处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6316",
+          "TELNUMBER2": ""
+        },
+        {
+          "TEACHERNAME": "示范办",
+          "DEPTNAME1": "科技信息处",
+          "DEPTNAME2": "",
+          "TELNUMBER1": "6550",
+          "TELNUMBER2": ""
+        }
+      ]
+    }
+  },
+  "mark": true,
+  "code": "000"
+}

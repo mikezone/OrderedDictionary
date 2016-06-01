@@ -15,6 +15,10 @@
 		27202AEE1CC8814000451922 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27202AEC1CC8814000451922 /* LaunchScreen.storyboard */; };
 		27202AF91CC8814000451922 /* OrderedDictionaryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 27202AF81CC8814000451922 /* OrderedDictionaryTests.m */; };
 		27202B041CC8814000451922 /* OrderedDictionaryUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 27202B031CC8814000451922 /* OrderedDictionaryUITests.m */; };
+		274B39781CFEB84C00019644 /* NSArray+Log.m in Sources */ = {isa = PBXBuildFile; fileRef = 274B39771CFEB84C00019644 /* NSArray+Log.m */; };
+		274B397E1CFEB87D00019644 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = 274B397B1CFEB87D00019644 /* JSONKit.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
+		274B397F1CFEB87D00019644 /* OrderedDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 274B397D1CFEB87D00019644 /* OrderedDictionary.m */; };
+		276D63991CFD358300334E6F /* 1.json in Resources */ = {isa = PBXBuildFile; fileRef = 276D63981CFD358300334E6F /* 1.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +55,13 @@
 		27202AFF1CC8814000451922 /* OrderedDictionaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OrderedDictionaryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		27202B031CC8814000451922 /* OrderedDictionaryUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OrderedDictionaryUITests.m; sourceTree = "<group>"; };
 		27202B051CC8814000451922 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		274B39761CFEB84C00019644 /* NSArray+Log.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Log.h"; sourceTree = "<group>"; };
+		274B39771CFEB84C00019644 /* NSArray+Log.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Log.m"; sourceTree = "<group>"; };
+		274B397A1CFEB87D00019644 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
+		274B397B1CFEB87D00019644 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
+		274B397C1CFEB87D00019644 /* OrderedDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OrderedDictionary.h; sourceTree = "<group>"; };
+		274B397D1CFEB87D00019644 /* OrderedDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OrderedDictionary.m; sourceTree = "<group>"; };
+		276D63981CFD358300334E6F /* 1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = 1.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +112,10 @@
 		27202ADD1CC8814000451922 /* OrderedDictionary */ = {
 			isa = PBXGroup;
 			children = (
+				274B39791CFEB87D00019644 /* Classes */,
+				274B39761CFEB84C00019644 /* NSArray+Log.h */,
+				274B39771CFEB84C00019644 /* NSArray+Log.m */,
+				276D63981CFD358300334E6F /* 1.json */,
 				27202AE11CC8814000451922 /* AppDelegate.h */,
 				27202AE21CC8814000451922 /* AppDelegate.m */,
 				27202AE41CC8814000451922 /* ViewController.h */,
@@ -138,6 +153,17 @@
 				27202B051CC8814000451922 /* Info.plist */,
 			);
 			path = OrderedDictionaryUITests;
+			sourceTree = "<group>";
+		};
+		274B39791CFEB87D00019644 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				274B397A1CFEB87D00019644 /* JSONKit.h */,
+				274B397B1CFEB87D00019644 /* JSONKit.m */,
+				274B397C1CFEB87D00019644 /* OrderedDictionary.h */,
+				274B397D1CFEB87D00019644 /* OrderedDictionary.m */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -249,6 +275,7 @@
 				27202AEE1CC8814000451922 /* LaunchScreen.storyboard in Resources */,
 				27202AEB1CC8814000451922 /* Assets.xcassets in Resources */,
 				27202AE91CC8814000451922 /* Main.storyboard in Resources */,
+				276D63991CFD358300334E6F /* 1.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,7 +302,10 @@
 			files = (
 				27202AE61CC8814000451922 /* ViewController.m in Sources */,
 				27202AE31CC8814000451922 /* AppDelegate.m in Sources */,
+				274B39781CFEB84C00019644 /* NSArray+Log.m in Sources */,
+				274B397F1CFEB87D00019644 /* OrderedDictionary.m in Sources */,
 				27202AE01CC8814000451922 /* main.m in Sources */,
+				274B397E1CFEB87D00019644 /* JSONKit.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -501,6 +531,7 @@
 				27202B0A1CC8814000451922 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27202B0B1CC8814000451922 /* Build configuration list for PBXNativeTarget "OrderedDictionaryTests" */ = {
 			isa = XCConfigurationList;
@@ -509,6 +540,7 @@
 				27202B0D1CC8814000451922 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27202B0E1CC8814000451922 /* Build configuration list for PBXNativeTarget "OrderedDictionaryUITests" */ = {
 			isa = XCConfigurationList;
@@ -517,6 +549,7 @@
 				27202B101CC8814000451922 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
