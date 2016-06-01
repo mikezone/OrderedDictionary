@@ -1,6 +1,9 @@
 懒老师教出勤奋的学生，懒的后端提升前端的数据解析能力。也是头一次遇到这种要求字典中的kv对顺序要和返回json一致的情况。
-##Usage
+
+## Usage
+
 ### `OrderedDictionary`类型是一个有序的字典，支持字典的大部分操作
+
 ```objectivec
 OrderedDictionary *dict = [OrderedDictionary dictionary];
 dict[@"key1"] = @(10);
@@ -15,6 +18,7 @@ NSLog(@"%@", dict); // {key1 = 10; key2 = 11; key3 = 12;}
 注意`OrderDictionary`不区分mutable和not mutable, 支持与`NSMutableDictionary`类似的增、删、改.
 
 ### 将json中的所有字典按照有序字典`OrderedDictionary`解析
+
 ```objectivec
 NSString *filePath = [[NSBundle mainBundle] pathForResource:@"1.json" ofType:nil];
 NSData *data = [NSData dataWithContentsOfFile:filePath]; 
