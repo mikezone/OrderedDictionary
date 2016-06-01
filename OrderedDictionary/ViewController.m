@@ -20,8 +20,14 @@
     [super viewDidLoad];
     
     OrderedDictionary *dict = [OrderedDictionary dictionary];
-    dict[@"key"] = @(10);
-    NSLog(@"%@", dict[@"key"]);
+    dict[@"key1"] = @(10);
+    dict[@"key2"] = @(11);
+    NSLog(@"%@", dict[@"key1"]);
+    NSLog(@"%zd", dict.count);
+    NSLog(@"%@", dict.allKeys);
+    NSLog(@"%@", dict.allValues);
+    [dict setObject:@(12) forKey:@"key3"];
+    NSLog(@"%@", dict);
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event {

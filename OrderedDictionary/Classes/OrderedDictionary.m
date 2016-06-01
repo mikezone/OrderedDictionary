@@ -12,7 +12,9 @@
 
 #define isLegalIndex(index) (index >= 0 || index < _allKeys.count)
 
-@interface OrderedDictionary ()
+@interface OrderedDictionary () {
+    unsigned long *hasChanged;
+}
 
 @property (nonatomic, strong) NSMutableArray *allKeys;
 @property (nonatomic, strong) NSMutableArray *allValues;
@@ -23,6 +25,7 @@
 
 - (instancetype)init {
     if (self = [super init]) {
+        hasChanged = 0;
         _allKeys = [NSMutableArray array];
         _allValues = [NSMutableArray array];
     }
