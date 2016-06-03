@@ -25,4 +25,4 @@ NSData *data = [NSData dataWithContentsOfFile:filePath];
 JSONDecoder *decoder = [[JSONDecoder alloc] init];
 id value = [decoder objectWithData:data error:NULL]; 
 ```
-得到的value是`OrderedDictionary`类型，kv对的顺序与json中的完全一致。
+解析后的value中所有的字典是`OrderedDictionary`类型，kv对的顺序与json中的完全一致。
